@@ -622,14 +622,29 @@ header h1 {
 
     .filter-group {
         min-width: 100%;
+        max-width: 80%;
     }
 
     .filter-label {
-        font-size: 1.2rem;
+        font-size: 1rem;
     }
 
     .filter-years {
-        font-size: 1rem;
+        font-size: 0.85rem;
+    }
+
+    .slider-container {
+        height: 40px;
+    }
+
+    .year-slider::-webkit-slider-thumb {
+        width: 22px;
+        height: 22px;
+    }
+
+    .year-slider::-moz-range-thumb {
+        width: 22px;
+        height: 22px;
     }
 
     .panel-toggle {
