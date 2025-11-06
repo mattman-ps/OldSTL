@@ -306,14 +306,22 @@ window.openSidePanelById = (photoId) => {
     // Center on the marker with offset to account for the panel
     const markerLatLng = L.latLng(coords.lat, coords.lng);
 
-    // Calculate offset (400px panel width / 2 = 200px offset)
-    // Convert pixels to map coordinates
-    const point = map.latLngToContainerPoint(markerLatLng);
-    point.x += 200; // Shift right by half the panel width
-    const newCenter = map.containerPointToLatLng(point);
+    // Check if mobile device (screen width <= 768px)
+    const isMobile = window.innerWidth <= 768;
 
-    // Smoothly pan to the new center
-    map.panTo(newCenter, { animate: true, duration: 0.5 });
+    if (isMobile) {
+        // On mobile, just center the marker without offset
+        map.panTo(markerLatLng, { animate: true, duration: 0.5 });
+    } else {
+        // On desktop, calculate offset (400px panel width / 2 = 200px offset)
+        // Convert pixels to map coordinates
+        const point = map.latLngToContainerPoint(markerLatLng);
+        point.x += 200; // Shift right by half the panel width
+        const newCenter = map.containerPointToLatLng(point);
+
+        // Smoothly pan to the new center
+        map.panTo(newCenter, { animate: true, duration: 0.5 });
+    }
 };
 
 // Close side panel
