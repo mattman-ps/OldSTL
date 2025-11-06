@@ -1,0 +1,65 @@
+# MIT License
+
+Copyright (c) 2025 OldSTL Contributors
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+---
+
+## Historical Photographs and Content
+
+The MIT License above applies ONLY to the source code, software, and technical
+implementation of this project (HTML, CSS, JavaScript, and project structure).
+
+Historical photographs and images displayed in this application may be subject
+to separate copyright restrictions and are NOT covered by the MIT License.
+
+### Image Rights and Usage
+
+- Historical photographs may be protected by copyright held by their original
+  creators, archives, libraries, or other rights holders.
+
+- Many photographs in this project are sourced from or inspired by collections at:
+  - [St. Louis Public Library](https://www.slpl.org/)
+  - [Missouri Historical Society](https://mohistory.org/)
+
+- These institutions maintain their own copyright policies, usage restrictions,
+  and licensing requirements for their historical photograph collections.
+
+- Users of this software are responsible for obtaining proper permissions and
+  licenses before using, reproducing, or distributing any historical images.
+
+- The inclusion of images in this repository or application does not imply
+  that they are in the public domain or freely licensed.
+
+- Image metadata in `src/data/locations.json` is provided for reference purposes
+  only and should be verified for accuracy and rights status.
+
+### Recommended Practice
+
+When using this software with historical photographs:
+
+1. Verify the copyright status of each image
+2. Obtain necessary permissions from rights holders
+3. Provide proper attribution as required
+4. Replace placeholder images with properly licensed content
+5. Document image sources and permissions in your deployment
+
+For questions about specific image rights, please contact the relevant archives,
+libraries, or copyright holders directly.
