@@ -1,0 +1,317 @@
+[
+    {
+        "id": "STL-0001",
+        "title": "Gateway Arch Construction",
+        "description": "1 photographic print: b&w.",
+        "note": "Construction of the iconic Gateway Arch, a symbol of St. Louis.",
+        "date": "1965",
+        "folder": "Gateway Arch Construction",
+        "url": "https://images.unsplash.com/photo-1580655653885-65763b2597d0?w=1200",
+        "extracted": {
+            "date_range": ["1965-01-01", "1965-12-31"],
+            "latlon": [38.6247, -90.1848],
+            "technique": "manual",
+            "located_str": "Gateway Arch, St. Louis, Missouri"
+        }
+    },
+    {
+        "id": "STL-0002",
+        "title": "Union Station",
+        "description": "1 photographic print: b&w.",
+        "note": "Historic Union Station during its heyday as a major railroad hub.",
+        "date": "1955",
+        "folder": "Union Station",
+        "url": "https://images.unsplash.com/photo-1464207687429-7505649dae38?w=1200",
+        "extracted": {
+            "date_range": ["1955-01-01", "1955-12-31"],
+            "latlon": [38.6283, -90.2073],
+            "technique": "manual",
+            "located_str": "Union Station, St. Louis, Missouri"
+        }
+    },
+    {
+        "id": "STL-0003",
+        "title": "The Muny Theater",
+        "description": "1 photographic print: b&w.",
+        "note": "The Municipal Opera Theatre, one of America's oldest outdoor theaters.",
+        "date": "1930",
+        "folder": "Forest Park - The Muny",
+        "url": "https://images.unsplash.com/photo-1503095396549-807759245b35?w=1200",
+        "extracted": {
+            "date_range": ["1930-01-01", "1930-12-31"],
+            "latlon": [38.6341, -90.2683],
+            "technique": "manual",
+            "located_str": "The Muny, Forest Park, St. Louis, Missouri"
+        }
+    },
+    {
+        "id": "STL-0004",
+        "title": "St. Louis Cathedral Basilica",
+        "description": "1 photographic print: b&w.",
+        "note": "The stunning Cathedral Basilica known for its magnificent mosaics.",
+        "date": "1910",
+        "folder": "Cathedral Basilica of St. Louis",
+        "url": "https://images.unsplash.com/photo-1548625361-02c6b042082c?w=1200",
+        "extracted": {
+            "date_range": ["1910-01-01", "1910-12-31"],
+            "latlon": [38.6494, -90.2590],
+            "technique": "manual",
+            "located_str": "Cathedral Basilica, St. Louis, Missouri"
+        }
+    },
+    {
+        "id": "STL-0005",
+        "title": "Eads Bridge",
+        "description": "1 photographic print: b&w.",
+        "note": "One of the first steel-truss bridges, connecting St. Louis to Illinois.",
+        "date": "1875",
+        "folder": "Eads Bridge",
+        "url": "https://images.unsplash.com/photo-1477959858617-67f85cf4f1df?w=1200",
+        "extracted": {
+            "date_range": ["1875-01-01", "1875-12-31"],
+            "latlon": [38.6280, -90.1790],
+            "technique": "manual",
+            "located_str": "Eads Bridge, St. Louis, Missouri"
+        }
+    },
+    {
+        "id": "STL-0006",
+        "title": "Forest Park",
+        "description": "1 photographic print: b&w.",
+        "note": "Forest Park during the 1904 World's Fair era.",
+        "date": "1905",
+        "folder": "Forest Park - 1904 World's Fair",
+        "url": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=1200",
+        "extracted": {
+            "date_range": ["1905-01-01", "1905-12-31"],
+            "latlon": [38.6358, -90.2866],
+            "technique": "manual",
+            "located_str": "Forest Park, St. Louis, Missouri"
+        }
+    },
+    {
+        "id": "STL-0007",
+        "title": "Old Courthouse - Exterior View",
+        "description": "1 photographic print: b&w.",
+        "note": "The Old Courthouse exterior, site of the historic Dred Scott case.",
+        "date": "1945",
+        "folder": "Old Courthouse",
+        "url": "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?w=1200",
+        "extracted": {
+            "date_range": ["1945-01-01", "1945-12-31"],
+            "latlon": [38.6261, -90.1879],
+            "technique": "manual",
+            "located_str": "Old Courthouse, St. Louis, Missouri"
+        }
+    },
+    {
+        "id": "STL-0011",
+        "title": "Old Courthouse - Construction",
+        "description": "1 photographic print: b&w.",
+        "note": "Early construction of the Old Courthouse dome and east wing.",
+        "date": "1862",
+        "folder": "Old Courthouse",
+        "url": "https://images.unsplash.com/photo-1541888946425-d81bb19240f5?w=1200",
+        "extracted": {
+            "date_range": ["1862-01-01", "1862-12-31"],
+            "latlon": [38.6261, -90.1879],
+            "technique": "manual",
+            "located_str": "Old Courthouse, St. Louis, Missouri"
+        }
+    },
+    {
+        "id": "STL-0012",
+        "title": "Old Courthouse - West Facade",
+        "description": "1 photographic print: b&w.",
+        "note": "Street level view showing west facade and surrounding buildings.",
+        "date": "1885",
+        "folder": "Old Courthouse",
+        "url": "https://images.unsplash.com/photo-1554469384-e58fac16e23a?w=1200",
+        "extracted": {
+            "date_range": ["1885-01-01", "1885-12-31"],
+            "latlon": [38.6261, -90.1879],
+            "technique": "manual",
+            "located_str": "Old Courthouse, St. Louis, Missouri"
+        }
+    },
+    {
+        "id": "STL-0013",
+        "title": "Old Courthouse - Interior Rotunda",
+        "description": "1 photographic print: b&w.",
+        "note": "Interior view of the magnificent rotunda with ornate decorations.",
+        "date": "1900",
+        "folder": "Old Courthouse",
+        "url": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=1200",
+        "extracted": {
+            "date_range": ["1900-01-01", "1900-12-31"],
+            "latlon": [38.6261, -90.1879],
+            "technique": "manual",
+            "located_str": "Old Courthouse, St. Louis, Missouri"
+        }
+    },
+    {
+        "id": "STL-0014",
+        "title": "Old Courthouse - Courtroom Scene",
+        "description": "1 photographic print: b&w.",
+        "note": "Historical courtroom where landmark civil rights cases were heard.",
+        "date": "1920",
+        "folder": "Old Courthouse",
+        "url": "https://images.unsplash.com/photo-1479839672679-a46483c0e7c8?w=1200",
+        "extracted": {
+            "date_range": ["1920-01-01", "1920-12-31"],
+            "latlon": [38.6261, -90.1879],
+            "technique": "manual",
+            "located_str": "Old Courthouse, St. Louis, Missouri"
+        }
+    },
+    {
+        "id": "STL-0015",
+        "title": "Old Courthouse - Aerial View",
+        "description": "1 photographic print: b&w.",
+        "note": "Aerial photograph showing the courthouse and surrounding downtown area.",
+        "date": "1930",
+        "folder": "Old Courthouse",
+        "url": "https://images.unsplash.com/photo-1449824913935-59a10b8d2000?w=1200",
+        "extracted": {
+            "date_range": ["1930-01-01", "1930-12-31"],
+            "latlon": [38.6261, -90.1879],
+            "technique": "manual",
+            "located_str": "Old Courthouse, St. Louis, Missouri"
+        }
+    },
+    {
+        "id": "STL-0016",
+        "title": "Old Courthouse - East Steps",
+        "description": "1 photographic print: b&w.",
+        "note": "Citizens gathering on the east steps during a public event.",
+        "date": "1938",
+        "folder": "Old Courthouse",
+        "url": "https://images.unsplash.com/photo-1477959858617-67f85cf4f1df?w=1200",
+        "extracted": {
+            "date_range": ["1938-01-01", "1938-12-31"],
+            "latlon": [38.6261, -90.1879],
+            "technique": "manual",
+            "located_str": "Old Courthouse, St. Louis, Missouri"
+        }
+    },
+    {
+        "id": "STL-0017",
+        "title": "Old Courthouse - Dome Detail",
+        "description": "1 photographic print: b&w.",
+        "note": "Close-up architectural detail of the courthouse dome.",
+        "date": "1950",
+        "folder": "Old Courthouse",
+        "url": "https://images.unsplash.com/photo-1503095396549-807759245b35?w=1200",
+        "extracted": {
+            "date_range": ["1950-01-01", "1950-12-31"],
+            "latlon": [38.6261, -90.1879],
+            "technique": "manual",
+            "located_str": "Old Courthouse, St. Louis, Missouri"
+        }
+    },
+    {
+        "id": "STL-0018",
+        "title": "Old Courthouse - Night View",
+        "description": "1 photographic print: b&w.",
+        "note": "Illuminated courthouse at night with surrounding street lights.",
+        "date": "1955",
+        "folder": "Old Courthouse",
+        "url": "https://images.unsplash.com/photo-1480714378408-67cf0d13bc1b?w=1200",
+        "extracted": {
+            "date_range": ["1955-01-01", "1955-12-31"],
+            "latlon": [38.6261, -90.1879],
+            "technique": "manual",
+            "located_str": "Old Courthouse, St. Louis, Missouri"
+        }
+    },
+    {
+        "id": "STL-0019",
+        "title": "Old Courthouse - Winter Scene",
+        "description": "1 photographic print: b&w.",
+        "note": "Courthouse covered in snow during a winter storm.",
+        "date": "1960",
+        "folder": "Old Courthouse",
+        "url": "https://images.unsplash.com/photo-1478860409698-8707f313ee8b?w=1200",
+        "extracted": {
+            "date_range": ["1960-01-01", "1960-12-31"],
+            "latlon": [38.6261, -90.1879],
+            "technique": "manual",
+            "located_str": "Old Courthouse, St. Louis, Missouri"
+        }
+    },
+    {
+        "id": "STL-0020",
+        "title": "Old Courthouse - Restoration Work",
+        "description": "1 photographic print: b&w.",
+        "note": "Workers conducting restoration on the historic building.",
+        "date": "1975",
+        "folder": "Old Courthouse",
+        "url": "https://images.unsplash.com/photo-1504198266287-1659872e6590?w=1200",
+        "extracted": {
+            "date_range": ["1975-01-01", "1975-12-31"],
+            "latlon": [38.6261, -90.1879],
+            "technique": "manual",
+            "located_str": "Old Courthouse, St. Louis, Missouri"
+        }
+    },
+    {
+        "id": "STL-0021",
+        "title": "Old Courthouse - With Gateway Arch",
+        "description": "1 photographic print: color.",
+        "note": "Modern view showing the courthouse with the Gateway Arch in background.",
+        "date": "1980",
+        "folder": "Old Courthouse",
+        "url": "https://images.unsplash.com/photo-1445810694374-0a94739e4a03?w=1200",
+        "extracted": {
+            "date_range": ["1980-01-01", "1980-12-31"],
+            "latlon": [38.6261, -90.1879],
+            "technique": "manual",
+            "located_str": "Old Courthouse, St. Louis, Missouri"
+        }
+    },
+    {
+        "id": "STL-0008",
+        "title": "Anheuser-Busch Brewery",
+        "description": "1 photographic print: b&w.",
+        "note": "The historic Anheuser-Busch brewery complex.",
+        "date": "1920",
+        "folder": "Anheuser-Busch Brewery",
+        "url": "https://images.unsplash.com/photo-1436076863939-06870fe779c2?w=1200",
+        "extracted": {
+            "date_range": ["1920-01-01", "1920-12-31"],
+            "latlon": [38.5992, -90.2147],
+            "technique": "manual",
+            "located_str": "Anheuser-Busch Brewery, St. Louis, Missouri"
+        }
+    },
+    {
+        "id": "STL-0009",
+        "title": "Grand Avenue Water Tower",
+        "description": "1 photographic print: b&w.",
+        "note": "The Victorian-era Grand Avenue Water Tower, a city landmark.",
+        "date": "1895",
+        "folder": "Grand Avenue Water Tower",
+        "url": "https://images.unsplash.com/photo-1445810694374-0a94739e4a03?w=1200",
+        "extracted": {
+            "date_range": ["1895-01-01", "1895-12-31"],
+            "latlon": [38.6386, -90.2236],
+            "technique": "manual",
+            "located_str": "Grand Avenue Water Tower, St. Louis, Missouri"
+        }
+    },
+    {
+        "id": "STL-0010",
+        "title": "Soulard Market",
+        "description": "1 photographic print: b&w.",
+        "note": "Soulard Farmers Market, one of the oldest public markets in America.",
+        "date": "1940",
+        "folder": "Soulard Market",
+        "url": "https://images.unsplash.com/photo-1488459716781-31db52582fe9?w=1200",
+        "extracted": {
+            "date_range": ["1940-01-01", "1940-12-31"],
+            "latlon": [38.6092, -90.2022],
+            "technique": "manual",
+            "located_str": "Soulard Market, St. Louis, Missouri"
+        }
+    }
+]

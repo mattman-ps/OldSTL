@@ -1,0 +1,21 @@
+  {
+    "description": "1 photographic print: b&w.",
+    "title": "Ruth Gottstein sitting on a balcony at St. Francis Square housing project",
+    "url": "http://sflib1.sfpl.org:82/record=b1030865~S0",
+    "note": "Newscopy: &#34;Miss Ruth Gottstein, a secretary of St. Francis Square Development Co., on sun-deck outside living room of ILWU community apartment, which soon will be completed in Western Addition.&#34;.",
+    "extracted": {
+      "date_range": [
+        "1963-04-11",
+        "1963-04-11"
+      ],
+      "latlon": [
+        37.783516,
+        -122.430908
+      ],
+      "technique": "generalization",
+      "located_str": "Generalized from AAD-6102 (\"webster and o'farrell streets (form 3)\")"
+    },
+    "date": "1963 Apr. 11",
+    "folder": "S.F. Housing Projects-St. Francis Square (See Also: Webster & O'Farrell).",
+    "id": "AAD-6100"
+  }
