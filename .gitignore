@@ -53,3 +53,11 @@ coverage/
 # Optional: Keep templates but ignore user-specific data
 # Uncomment if you want to ignore the data file in git
 # src/data/locations.json
+
+# DuckDB database files (local only)
+*.duckdb
+*.duckdb.wal
+
+# Backup files
+backups/
+*.backup
